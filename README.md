@@ -1,7 +1,7 @@
 # fake-discord-login-site
 A fake discord login page made using django for educational purposes
 
-##Steps
+## Steps
 1. git clone https://github.com/Anurag-gg/fake-discord-login-site
 2. go to terminal
 3. python manage.py makemigrations
